@@ -1,4 +1,4 @@
-slet r1 = 125;
+let r1 = 125;
 let r2 = 125;
 let m1 = 10;
 let m2 = 10;
